@@ -1,4 +1,5 @@
 // https://github.com/tornadocash/tornado-core/blob/master/circuits/merkleTree.circom
+
 include "../node_modules/circomlib/circuits/mimcsponge.circom";
 
 // Computes MiMC([left, right])
