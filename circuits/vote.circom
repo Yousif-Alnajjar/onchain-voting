@@ -1,4 +1,4 @@
-// https://github.com/tornadocash/tornado-core/blob/master/circuits/vote.circom
+// https://github.com/tornadocash/tornado-core/blob/master/circuits/withdraw.circom
 
 include "../node_modules/circomlib/circuits/bitify.circom";
 include "../node_modules/circomlib/circuits/pedersen.circom";
